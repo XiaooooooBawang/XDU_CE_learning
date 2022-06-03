@@ -1,7 +1,8 @@
 # 前言
 
 西安电子科技大学 通信工程教改班 课程学习经验分享
-**该文档的GitHub原仓库[在这里](https://github.com/XiaooooooBawang/XDU_CE_learning)，对你有帮助的话记得点个star:star:鸭！**
+**该文档的GitHub原仓库[在这里](https://github.com/XiaooooooBawang/XDU_CE_learning)，对你有帮助的话记得点个star:star:鸭！**  
+md文件都在仓库的source里
 
 ## 动机
 
