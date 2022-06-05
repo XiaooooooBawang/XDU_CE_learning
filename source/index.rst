@@ -7,10 +7,10 @@ XDU_learning文档总目录
 ========================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 8
    :caption: Contents:
 
    README
    前置技能
-   通信工程教改/index
-
+   通电微实验班/index
+   选修课
