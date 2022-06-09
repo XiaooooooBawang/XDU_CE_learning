@@ -16,10 +16,10 @@
 
 repo我会汇总构建到Read the Docs上，方便大家按需查阅。
 
-## 分享的几种方式
+## 几种分享方式
 
+- 直接发文字到我的QQ：1206286599
 - 将Markdown或者Word文件发至我的QQ邮箱1206286599@qq.com
-- 像发表白墙那样直接发文字到我的QQ：1206286599
 - git/github网页或桌面版：fork本repo后创建新的branch（不要直接用master，怕搞乱），修改已有或者加上自己的Markdown文件然后commit，push到自己的repo，最后pull request即可。
 - 如果愿意不匿名的话可以留下你的昵称，我将对你们的分享署名。**但为了保证时效性和参考性请一定要留下年级**。
 - 有疑问可以邮箱或QQ私信我，或者GitHub上提issue
